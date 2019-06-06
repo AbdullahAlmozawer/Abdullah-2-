@@ -1,0 +1,76 @@
+*{
+    padding: 10px;
+    margin: 0px;
+    
+}
+:root{
+    font-family: 'Ranga', cursive;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    border:0px;
+     
+}
+header{
+    background-color: beige;
+    
+
+    
+}
+h1 { 
+    font-family: 'Josefin Sans', sans-serif; 
+}
+main{
+background-image: url(accounting.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+table{
+    border-spacing: 30px;
+    color: darkblue;
+    
+}
+td,tr{
+    padding: 10px;
+}
+    
+#contact{
+    position: absolute;
+    right: 0%;
+    text-align: center;
+    top: 0%;
+}
+section{
+    position: absolute;
+    right: 10%;
+    top: 30%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+#recive{
+    position: absolute;
+    top: 23%;
+
+}
+div{
+    position: absolute;
+    left:50%;
+    top: 86%; 
+}
+button{
+    font-size: 25px;
+    text-decoration: teal;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+button:hover{
+    color: coral;
+}
+
+
+
+
+
