@@ -57,7 +57,7 @@ section{
 div{
     position: absolute;
     left:50%;
-    top: 86%; 
+    top: 91%; 
 }
 button{
     font-size: 25px;
@@ -69,8 +69,23 @@ button{
 button:hover{
     color: coral;
 }
+i.fa-facebook{
+    background: #5252b8;
+    
 
+}
 
+i.fa-instagram{
+background: #9b3535;
+}
+i.fa-linkedin{
+    background: #55acee;
+
+}
+i.fa-twitter{
+
+background: #00acee;
+}
 
 
 
